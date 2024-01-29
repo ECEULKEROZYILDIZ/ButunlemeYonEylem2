@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButunlemeYonEylem2", "ButunlemeYonEylem2\ButunlemeYonEylem2.csproj", "{EBAB665A-AAA2-48CE-9134-84AF2A1A6D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAB665A-AAA2-48CE-9134-84AF2A1A6D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAB665A-AAA2-48CE-9134-84AF2A1A6D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAB665A-AAA2-48CE-9134-84AF2A1A6D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAB665A-AAA2-48CE-9134-84AF2A1A6D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15EB89E8-F98E-4097-B0C3-C6BCE10D5573}
+	EndGlobalSection
+EndGlobal
